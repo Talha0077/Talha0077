@@ -9,4 +9,4 @@ I'm **Talha Waheed**, a final year Computer Science student studying at the Nati
 
 🌱 I’m currently learning Go
 
-✨ I love working with Python
+✨ I love Python
