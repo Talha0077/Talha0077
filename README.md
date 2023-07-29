@@ -9,4 +9,4 @@ I'm **Talha Waheed**. I love working with backend technologies, creating pipelin
 
 🌱 I’m learning and working in Go nowadays
 
-✨ I just love learning new things here and there related to my field
+✨ Love information and technology
