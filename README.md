@@ -5,7 +5,7 @@
 
 I'm **Talha Waheed**. I love working with backend technologies, creating pipelines, developing logic and just coding in general. 
 
-🔭 I’m currently working as an Associate Software Engineer at Securiti.ai
+🔭 I’m currently working as a Software Engineer at Securiti.ai
 
 🌱 I’m learning and working in Go nowadays
 
